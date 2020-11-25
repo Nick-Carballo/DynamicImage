@@ -10,10 +10,6 @@
     flex-direction: row;
 }
 
-#image {
-    height:800px;
-    width: 800px;
-}
 
 .table {
     height: auto;
